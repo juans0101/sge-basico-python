@@ -1,7 +1,6 @@
 """Sistema de Gestión de Estudiantes (SGE) básico.
 
-Aplicación de consola para registrar, listar, buscar y consultar estudiantes.
-Requiere Python 3.11 o superior; el sistema utiliza match-case (disponible desde Python 3.10).
+Aplicación de consola para registrar, listar, buscar y consultar estudiantes
 """
 
 
